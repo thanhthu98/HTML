@@ -1,0 +1,66 @@
+<DOCTYPE html>
+<html lang="en_us">
+<head>
+	<title>LO</title>
+	<meta charset ="utf-8"/>
+	<style>
+	.all{
+		text-align:center;
+		background-color:#FAEBD7;
+		margin:auto;
+		border:5px solid white;
+		}
+	#p01{
+		width:1000px;
+		padding: 30px;
+		
+		}
+	#p02{
+		width:1030px;
+		padding: 15px;
+		
+		}
+	#p00{
+		width:1070px;
+		height:400px;
+		margin:auto;
+		}
+	#p03{
+		width:200px;
+		height:400px;
+		float:left;
+		line-height:400px;
+		}
+	#p04{
+		width:640px;
+		height:400px;
+		float:left;
+		line-height:400px;
+		}
+	#p05{
+		width:200px;
+		height:400px;
+		float:right;
+		line-height:400px;
+		}
+	#p06{
+		width:1020px;
+		padding:20px;
+		
+		}
+	
+	</style>
+	
+</head>
+<body>
+	<div class="all" id="p01">Header</div>
+	<div class="all" id="p02">Navigation</div>
+	<div id="p00">
+		<div class="all" id="p03">Content</div>
+		<div class="all" id="p04">Main Content</div>
+		<div class="all" id="p05">Content</div>
+	<div>
+	<div class="all" id="p06">Footer</div>
+	
+</body>
+</html>

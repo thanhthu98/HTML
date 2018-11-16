@@ -1,0 +1,115 @@
+<DOCTYPE html>
+<html lang="en_us">
+<head>
+	<title>Chạm Đáy Nỗi Đau</title>
+	<meta charset ="utf-8"/>
+	<style>
+		*{
+			padding:0;
+			margin:0;
+			box-sizing:border-box;
+		}
+		.header{
+			width:100%;
+			height:50px;
+			float:left;
+			background-color:black;
+			line-height:50px;
+		}
+		.content{
+			width:1000px;
+			height:100%;
+			margin: auto;	
+		}
+		.menu{
+			width:100%;
+			height:45px;
+			float:left;
+			background-color:#DCDCDC;
+			line-height:45px;
+			text-align:center;
+			
+		}
+		.noidung{
+			background-color:#F5F5F5;
+			width:100%;
+			float:left;	
+			height:auto;
+			
+		}
+		.quangcao{
+			width:97%;
+			height:120px;
+			background-color:#ADD8E6;
+			margin:auto;
+			border-top:10px solid white;
+			
+			
+		}
+		.body{
+			width:97%;
+			height:auto;
+			margin:10px auto;
+			
+		}
+		.body-left{
+			width:65%;
+			height:auto;
+			border-right:10px solid white;
+			
+			float:left;
+		}
+		.body-right{
+			width:35%;
+			height:auto;
+			border-left:10px solid white;
+			background-color:yellow;
+			float:right;
+		}
+		
+	</style>
+</head>
+<body>
+	<div class="header">
+		<div class="content">
+			<a href="https://mp3.zing.vn/"><p style="color:white;float:left;">ZingMp3</p></a>
+			<p style="color:white;float:left;"> Nhập</p>
+			<a href="https://mp3.zing.vn/"><p style="color:white;float:left;width:5%">MP3</p></a>
+			<a href="https://news.zing.vn/"><p style="color:white;float:left;width:7%">NEWS</p></a>
+			<a href="https://tv.zing.vn/"><p style="color:white;float:left;width:4%">TV</p></a>
+			<p style="color:white;float:right;"><a href="https://www.w3schools.com/colors/colors_names.asp">Đăng nhập</a></p>
+		</div>
+	
+	</div>
+	<div class="menu">
+		<div class="content">
+			<a href="https://mp3.zing.vn/"><p style="float:left;width:5%">Nhà</p></a>
+			<a href="https://www.w3schools.com/colors/colors_names.asp"><p style="float:left;width:11%">Nhạc cá nhân</p></a>
+			<a href="https://mp3.zing.vn/zing-chart/index.html"><p style="float:left;width:10%">#zingchart</p></a>
+			<a href="https://mp3.zing.vn/top100/Nhac-Tre/IWZ9Z088.html"><p style="float:left;width:8%">Top 100</p></a>
+			<a href="https://mp3.zing.vn/chu-de"><p style="float:left;width:8%">Chủ Đề</p></a>
+			<a href="https://mp3.zing.vn/the-loai-video.html"><p style="float:left;width:6%">Video</p></a>
+			<a href="https://mp3.zing.vn/the-loai-album.html"><p style="float:left;width:6%">Album</p></a>
+			<a href="https://mp3.zing.vn/the-loai-nghe-si"><p style="float:left;width:9%">Nghệ Sĩ</p></a>
+			<a href="https://mp3.zing.vn/vip?utm_source=WebZingMP3&utm_medium=Main_Menu&utm_campaign=buyVIP"><p style="float:left;width:4%">VIP</p></a>
+			<p style="float:right;"><a href="https://www.w3schools.com/colors/colors_names.asp">Upload</a></p>
+			<p style="float:right;"><a href="https://www.w3schools.com/colors/colors_names.asp">Tắt quảng cáo</a></p>	
+		</div>
+	</div>
+	<div class="noidung">
+		<div class="content" style="background-color:white">
+			<div class="quangcao"></div>
+			<div class="body">
+				<div class="body-left" >
+				<h3>Chạm Đáy Nỗi Đau - ERIK</h3>
+				<p>Sáng tác: Mr Siro * Album: Chạm Đáy Nỗi Đau (Single)</p>
+				<p>Thể loại: Việt Nam, Nhạc Trẻ</p>
+				<!--<p><img src = "ZingMp3\Ảnh\thich.png" alt = "like" width ="10px" height="auto"/></p>
+				<p><img src="Ảnh\lt.png" alt="Lượt" width="10px" height="auto"/></p>-->
+				</div>
+				
+				<div class="body-right" >tt</div>
+			</div>
+	</div>
+</body>
+</html>
